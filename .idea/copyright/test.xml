@@ -1,0 +1,9 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="/**&#10; * This file Copyright (c) &amp;#36;{year} Magnolia International&#10; * Ltd.  (http://www.magnolia-cms.com). All rights reserved.&#10; *&#10; *&#10; * This file is dual-licensed under both the Magnolia&#10; * Network Agreement and the GNU General Public License.&#10; * You may elect to use one or the other of these licenses.&#10; *&#10; * This file is distributed in the hope that it will be&#10; * useful, but AS-IS and WITHOUT ANY WARRANTY; without even the&#10; * implied warranty of MERCHANTABILITY or FITNESS FOR A&#10; * PARTICULAR PURPOSE, TITLE, or NONINFRINGEMENT.&#10; * Redistribution, except as permitted by whichever of the GPL&#10; * or MNA you select, is prohibited.&#10; *&#10; * 1. For the GPL license (GPL), you can redistribute and/or&#10; * modify this file under the terms of the GNU General&#10; * Public License, Version 3, as published by the Free Software&#10; * Foundation.  You should have received a copy of the GNU&#10; * General Public License, Version 3 along with this program;&#10; * if not, write to the Free Software Foundation, Inc., 51&#10; * Franklin St, Fifth Floor, Boston, MA 02110-1301 USA.&#10; *&#10; * 2. For the Magnolia Network Agreement (MNA), this file&#10; * and the accompanying materials are made available under the&#10; * terms of the MNA which accompanies this distribution, and&#10; * is available at http://www.magnolia-cms.com/mna.html&#10; *&#10; * Any modifications to this file must keep this entire header&#10; * intact.&#10; *&#10; */" />
+    <option name="keyword" value="Copyright" />
+    <option name="allowReplaceKeyword" value="" />
+    <option name="myName" value="test" />
+    <option name="myLocal" value="true" />
+  </copyright>
+</component>
